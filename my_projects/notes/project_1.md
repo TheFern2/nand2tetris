@@ -1,5 +1,7 @@
 ## project 1 notes
 
+Using visual simulator https://github.com/hneemann/Digital
+
 - Nand built-in
 - Not done
 - And done
